@@ -1,2 +1,2 @@
-# bicep
+# Bicep
 Azure Cloud IaC
